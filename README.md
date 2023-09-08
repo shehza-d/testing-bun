@@ -4,6 +4,12 @@ A fast JavaScript runtime, package manager, bundler and test runner. (1.0.0)
 
 ## [Seems Revolutionary](https://youtu.be/dWqNgzZwVJQ?si=iy3xatwBz6ZAZGBH)
 
+this command wasn't so fast
+
+```bash
+bun x create-react-app my-react-app
+```
+
 To install dependencies:
 
 ```bash
